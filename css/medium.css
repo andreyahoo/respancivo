@@ -1,0 +1,12 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+.uma-div{
+	position:relative;
+	width: 1000px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: #1E50E0;
+}
